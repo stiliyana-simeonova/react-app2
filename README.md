@@ -1,6 +1,8 @@
-# Getting Started with Create React App
+# Simple Web Site react app
 
-Project focusin on converting existing html/css into react app.
+Another app created as part of my React learnng journey. 
+The aim is to start with vanila html/JS code and convert it to React app.
+The project also uses basic git-netlify CI/CD pipeline.
 
 ## Available Scripts
 
